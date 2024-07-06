@@ -1,7 +1,7 @@
 # Industry and Career Research Report
 
 ## Overview
-This repository contains a detailed industry and career research report focused on the field of Materials and Metallurgical Engineering. The report covers professional associations, certifications, current news, job postings, and an academic program outline.
+This repository contains a detailed industry and career research report focused on the field of Financial Services. The report covers professional associations, certifications, current news, job postings, and an academic program outline.
 
 ## Contents
 - **Title Page**
